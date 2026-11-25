@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #eaf1ff;
+    text-align: center;
+    padding: 40px;
+}
+
+.container {
+    background: white;
+    max-width: 450px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+input {
+    padding: 12px;
+    width: 60%;
+}
+
+button {
+    padding: 12px;
+    background: #1768d8;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+li {
+    padding: 12px;
+    text-align: left;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
